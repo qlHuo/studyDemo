@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "html-webpack-plugin": "^4.3.0",
+    "html-webpack-plugin": "^5.5.0",
     "jquery": "^3.5.1",
     "node-sass": "^4.14.1",
     "vue": "^2.6.11"
@@ -24,18 +24,18 @@
     "@babel/preset-env": "^7.9.6",
     "@babel/runtime": "^7.9.6",
     "autoprefixer": "^9.7.6",
-    "babel-loader": "^8.1.0",
-    "css-loader": "^3.5.3",
+    "babel-loader": "^8.3.0",
+    "css-loader": "^6.7.3",
     "file-loader": "^6.0.0",
     "less-loader": "^6.0.0",
-    "postcss-loader": "^3.0.0",
-    "sass-loader": "^8.0.2",
+    "postcss-loader": "^7.0.2",
+    "sass-loader": "^13.2.0",
     "style-loader": "^1.2.1",
     "url-loader": "^4.1.0",
-    "vue-loader": "^15.9.2",
+    "vue-loader": "^17.0.1",
     "vue-template-compiler": "^2.6.11",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.10.3"
   }
 }
